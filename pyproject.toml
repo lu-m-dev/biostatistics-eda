@@ -1,0 +1,24 @@
+[project]
+name = "medical-data"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "dash>=3.1.1",
+    "dash-bootstrap-components>=2.0.3",
+    "dash-daq>=0.6.0",
+    "ipykernel>=6.29.5",
+    "kaleido>=1.0.0",
+    "lifelines>=0.30.0",
+    "nbformat>=5.10.4",
+    "openpyxl>=3.1.5",
+    "pandas>=2.3.1",
+    "pingouin>=0.5.5",
+    "pyarrow>=20.0.0",
+    "rpy2>=3.6.1",
+    "seaborn>=0.13.2",
+    "statsmodels>=0.14.5",
+    "tk>=0.1.0",
+    "xlsxwriter>=3.2.5",
+]
